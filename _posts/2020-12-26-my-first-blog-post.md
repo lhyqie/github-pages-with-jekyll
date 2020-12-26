@@ -1,1 +1,4 @@
-2020-12-26 This is a new file
+---
+title: "My first blog"
+date: 2020-12-26
+---
